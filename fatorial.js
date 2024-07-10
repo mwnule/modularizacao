@@ -22,7 +22,9 @@ function fatoracao(numero) {
     let divididos = [];
     for (let i = numero; i >= 1; i--) {
         if (numero % numerosPrimos == 0)
-    }
+    {
+        
+    }} 
 
 }
 
